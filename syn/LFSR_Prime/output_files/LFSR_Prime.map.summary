@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue May 07 00:52:32 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : LFSR_Prime
+Top-level Entity Name : LFSR_Prime
+Family : Cyclone IV E
+Total logic elements : 262
+    Total combinational functions : 257
+    Dedicated logic registers : 52
+Total registers : 52
+Total pins : 17
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
