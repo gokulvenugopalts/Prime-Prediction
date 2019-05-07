@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vRAM_Imp
+Z0 !s110 1557208788
+!i10b 1
+!s100 KRYY>2AWIC=I2?`iJ;7U;2
+IoR7_m1`b[l<nBoz@6VF@21
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/S.NAVEEN/Desktop/MS/Project/ADD_Nights_King/sim_ram
+w1557208695
+8C:/Users/S.NAVEEN/Desktop/MS/Project/ADD_Nights_King/RAM_Implementation.v
+FC:/Users/S.NAVEEN/Desktop/MS/Project/ADD_Nights_King/RAM_Implementation.v
+L0 5
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1557208788.000000
+!s107 C:/Users/S.NAVEEN/Desktop/MS/Project/ADD_Nights_King/RAM_Implementation.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/S.NAVEEN/Desktop/MS/Project/ADD_Nights_King/RAM_Implementation.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@r@a@m_@imp
+vtb_RAM_Imp
+R0
+!i10b 1
+!s100 :zlHHOPNX5_@^PJO102:T2
+IAOF7f_BBTRRO1B4P_O_6k3
+R1
+R2
+w1557205274
+8C:/Users/S.NAVEEN/Desktop/MS/Project/ADD_Nights_King/tb_RAM.v
+FC:/Users/S.NAVEEN/Desktop/MS/Project/ADD_Nights_King/tb_RAM.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/S.NAVEEN/Desktop/MS/Project/ADD_Nights_King/tb_RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/S.NAVEEN/Desktop/MS/Project/ADD_Nights_King/tb_RAM.v|
+!i113 1
+R5
+R6
+ntb_@r@a@m_@imp
