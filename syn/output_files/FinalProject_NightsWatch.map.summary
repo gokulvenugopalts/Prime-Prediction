@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue May 07 01:25:18 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : FinalProject_NightsWatch
+Top-level Entity Name : FinalProject_NightsWatch
+Family : Cyclone IV E
+Total logic elements : 77
+    Total combinational functions : 65
+    Dedicated logic registers : 35
+Total registers : 35
+Total pins : 18
+Total virtual pins : 0
+Total memory bits : 256
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

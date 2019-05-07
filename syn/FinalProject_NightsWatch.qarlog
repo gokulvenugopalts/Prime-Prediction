@@ -1,0 +1,33 @@
+Quartus Prime Archive log --	D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/syn/FinalProject_NightsWatch.qarlog
+
+Archive:	D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/syn/FinalProject_NightsWatch.qar
+Date:		Tue May 07 01:24:56 2019
+Quartus Prime		18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/CountTo10.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/CountTo100.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/FinalProject_NightsWatch.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/Game_Control.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/LFSR_7bit_Random.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/LFSR_Prime.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/Next_Prime.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/Timer100ms.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/Timer1ms.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/TimerOneSecond.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/buttonShaper.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/checkPassword.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/countDownToZero.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/counter.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/timer.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/syn/FinalProject_NightsWatch.qpf
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/syn/FinalProject_NightsWatch.qsf
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/syn/MultiPSID.mif
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/syn/MultiPswd.mif
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/syn/multiID.v
+D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/syn/multiPSWD.v
+c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 22 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

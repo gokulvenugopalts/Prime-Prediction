@@ -1,0 +1,112 @@
+Archive Project report for FinalProject_NightsWatch
+Tue May 07 01:24:56 2019
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Tue May 07 01:24:56 2019 ;
+; Revision Name          ; FinalProject_NightsWatch              ;
+; Top-level Entity Name  ; FinalProject_NightsWatch              ;
+; Family                 ; Cyclone IV E                          ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Warning: Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/syn/FinalProject_NightsWatch.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'FinalProject_NightsWatch.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/18.1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4845 megabytes
+    Info: Processing ended: Tue May 07 01:24:56 2019
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++-----------------------------------------------------------------------------------------+
+; Files Archived                                                                          ;
++-----------------------------------------------------------------------------------------+
+; File Name                                                                               ;
++-----------------------------------------------------------------------------------------+
+; ../src/buttonShaper.v                                                                   ;
+; ../src/checkPassword.v                                                                  ;
+; ../src/countDownToZero.v                                                                ;
+; ../src/counter.v                                                                        ;
+; ../src/CountTo10.v                                                                      ;
+; ../src/CountTo100.v                                                                     ;
+; ../src/FinalProject_NightsWatch.v                                                       ;
+; ../src/Game_Control.v                                                                   ;
+; ../src/LFSR_7bit_Random.v                                                               ;
+; ../src/LFSR_Prime.v                                                                     ;
+; ../src/Next_Prime.v                                                                     ;
+; ../src/timer.v                                                                          ;
+; ../src/Timer1ms.v                                                                       ;
+; ../src/Timer100ms.v                                                                     ;
+; ../src/TimerOneSecond.v                                                                 ;
+; c:/intelfpga_lite/18.1/quartus/bin64/assignment_defaults.qdf                            ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/buttonShaper.v             ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/checkPassword.v            ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/countDownToZero.v          ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/counter.v                  ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/CountTo10.v                ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/CountTo100.v               ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/FinalProject_NightsWatch.v ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/Game_Control.v             ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/LFSR_7bit_Random.v         ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/LFSR_Prime.v               ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/Next_Prime.v               ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/timer.v                    ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/Timer1ms.v                 ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/Timer100ms.v               ;
+; D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/TimerOneSecond.v           ;
+; FinalProject_NightsWatch.qpf                                                            ;
+; FinalProject_NightsWatch.qsf                                                            ;
+; multiID.v                                                                               ;
+; MultiPSID.mif                                                                           ;
+; MultiPswd.mif                                                                           ;
+; multiPSWD.v                                                                             ;
++-----------------------------------------------------------------------------------------+
+
+

@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at buttonShaper.v(27): always construct contains both blocking and non-blocking assignments File: D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/buttonShaper.v Line: 27
+Warning (10268): Verilog HDL information at Next_Prime.v(13): always construct contains both blocking and non-blocking assignments File: D:/Grad School/Spring, 2019/ADD/FinalProject_NightsWatch/src/Next_Prime.v Line: 13

@@ -1,0 +1,21 @@
+
+State Machine - |FinalProject_NightsWatch|buttonShaper:instBtnShaper|state
+Name state.s_INIT state.s_WAIT state.s_PULSE 
+state.s_INIT 0 0 0 
+state.s_PULSE 1 0 1 
+state.s_WAIT 1 1 0 
+
+State Machine - |FinalProject_NightsWatch|checkPassword:inst_chkPswd|STATE
+Name STATE.Logout_State STATE.Digit1 STATE.Authorize STATE.CheckPassword STATE.ROM_DATA_READ STATE.Wait2 STATE.Wait1 STATE.Fetch_ROM_Data STATE.Digit4 STATE.Digit3 STATE.Digit2 STATE.Initial 
+STATE.Initial 0 0 0 0 0 0 0 0 0 0 0 0 
+STATE.Digit2 0 0 0 0 0 0 0 0 0 0 1 1 
+STATE.Digit3 0 0 0 0 0 0 0 0 0 1 0 1 
+STATE.Digit4 0 0 0 0 0 0 0 0 1 0 0 1 
+STATE.Fetch_ROM_Data 0 0 0 0 0 0 0 1 0 0 0 1 
+STATE.Wait1 0 0 0 0 0 0 1 0 0 0 0 1 
+STATE.Wait2 0 0 0 0 0 1 0 0 0 0 0 1 
+STATE.ROM_DATA_READ 0 0 0 0 1 0 0 0 0 0 0 1 
+STATE.CheckPassword 0 0 0 1 0 0 0 0 0 0 0 1 
+STATE.Authorize 0 0 1 0 0 0 0 0 0 0 0 1 
+STATE.Digit1 0 1 0 0 0 0 0 0 0 0 0 1 
+STATE.Logout_State 1 0 0 0 0 0 0 0 0 0 0 1 

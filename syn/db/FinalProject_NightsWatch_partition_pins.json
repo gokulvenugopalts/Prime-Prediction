@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "accessGranted",
+					"strict" : false
+				},
+				{
+					"name" : "accessDenied",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "data_inp[0]",
+					"strict" : false
+				},
+				{
+					"name" : "data_inp[1]",
+					"strict" : false
+				},
+				{
+					"name" : "data_inp[2]",
+					"strict" : false
+				},
+				{
+					"name" : "data_inp[3]",
+					"strict" : false
+				},
+				{
+					"name" : "btn_pswdLoad",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
