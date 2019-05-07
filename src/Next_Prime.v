@@ -23,7 +23,14 @@ module Next_Prime(clk,rst,primeNumberInput,primeNumberOutput,findPrimeEnable);
 				begin
 					if (findPrimeEnable == 1) 	// NEW NUMBER 
 						begin
-							primeNumberInput_temp<=primeNumberInput;
+							if(primeNumberInput <=2)
+								begin
+									primeNumberInput_temp <= 2;
+								end
+							else
+								begin
+									primeNumberInput_temp<=primeNumberInput;
+								end
 							count <=2; // set counter to 2
 							factor <= 2;
 						end
